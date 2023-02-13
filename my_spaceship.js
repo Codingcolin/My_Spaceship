@@ -1,7 +1,7 @@
 
 function my_spaceship(str) {
 
-    //rocket What the beginning coordinates and direction
+    //What the beginning coordinates and direction
     let x = 0;
     let y = 0;
     let direction = "up";
